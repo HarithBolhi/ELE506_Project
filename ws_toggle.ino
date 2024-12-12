@@ -7,8 +7,8 @@
 #include <ArduinoJson.h>
 
 // Replace with your network credentials
-const char* ssid = "Bolhinet Maxis 2.4g";
-const char* password = "Bolhi87654321";
+const char* ssid = "Harith AP 2";
+const char* password = "12345678";
 
 // Define LED pins and states
 const int ledPins[] = {16, 5, 4, 0}; // GPIO16, GPIO5, GPIO4, GPIO0
